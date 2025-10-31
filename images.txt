@@ -1,2 +1,1 @@
-odoo:19.0-20251021
-postgres:18.0
+pgvector/pgvector:pg18
